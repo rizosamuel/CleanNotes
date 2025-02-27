@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Security",
+        "settings": [
+            {
+                "title": "App Lock",
+                "type": "appLock"
+            }
+        ]
+    },
+    {
+        "title": "Profile",
+        "settings": [
+            {
+                "title": "Signed in"
+            },
+            {
+                "title": "Log Out",
+                "type": "logOut"
+            }
+        ]
+    }
+]
+

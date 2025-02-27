@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Security",
+        "settings": [
+            {
+                "title": "App Lock",
+                "type": "appLock"
+            }
+        ]
+    }
+]
